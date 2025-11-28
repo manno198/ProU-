@@ -340,7 +340,7 @@ curl -X POST http://localhost:5000/api/employees \
 ## 🌐 Deployment
 
 ### Frontend Deployment (Netlify)
-- **Live Demo**: []
+- **Live Demo**: [https://prouhs.netlify.app/]
 - **Build Command**: `yarn build`
 - **Publish Directory**: `dist`
 
