@@ -4,7 +4,7 @@
 
 This repository contains the complete solution for **ProU Technology Internship Coding Challenge**, implementing both **Track 1 (Frontend)** and **Track 2 (Backend)** as separate, independent projects.
 
-### Track 1: Frontend (Mock Data)
+### Track 1: Frontend (Mock Data) [https://prouhs.netlify.app/]
 A modern, responsive React Single Page Application (SPA) that manages employee tasks using **mock JSON data only**. The frontend operates independently without any backend API integration, demonstrating component-based architecture, state management, and modern UI/UX practices.
 
 ### Track 2: Backend (API + Database)
@@ -92,7 +92,7 @@ proU-assignment/
 
 ---
 
-## 🚀 Setup Steps
+## Setup Steps
 
 ### Prerequisites
 - **Node.js** (v16 or higher)
@@ -204,7 +204,7 @@ proU-assignment/
 
 ---
 
-## 📡 API Endpoints (Backend - Track 2)
+## API Endpoints (Backend - Track 2)
 
 ### Base URL
 ```
@@ -264,7 +264,9 @@ curl -X POST http://localhost:5000/api/employees \
 
 ---
 
-## Screenshots
+
+<img width="1673" height="861" alt="Screenshot 2025-11-28 223759" src="https://github.com/user-attachments/assets/7089dc3a-5f16-41b6-b03d-91c3128c2137" />
+
 
 ### Frontend Screenshots
 - **Dashboard Page**: Overview with statistics and recent tasks
@@ -329,7 +331,7 @@ curl -X POST http://localhost:5000/api/employees \
 
 ---
 
-## 📚 Additional Documentation
+## Additional Documentation
 
 - **Frontend README**: `frontend-track1/README.md` - Detailed frontend documentation
 - **Backend README**: `backend-track2/README.md` - Detailed backend API documentation
@@ -337,7 +339,7 @@ curl -X POST http://localhost:5000/api/employees \
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 ### Frontend Deployment (Netlify)
 - **Live Demo**: [https://prouhs.netlify.app/]
@@ -350,15 +352,14 @@ curl -X POST http://localhost:5000/api/employees \
 
 ---
 
-## 👤 Author
 
-Harshita Singh
+Build with ❤️ By Harshita Singh
 - **Email**: [sharshitaa3@gmail.com]
 
 
 ---
 
-## 📝 License
+## License
 
 This project is created for ProU Technology Internship Assessment purposes.
 
